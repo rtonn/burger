@@ -21,14 +21,11 @@ https://rt-umn-burgertime.herokuapp.com/
 - express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
 
 ## Screen Shots
-![Screen shot](public/assets/images/Index.png)
-Index Page
 
-![Screen shot2](public/assets/images/Form.png)
-Form to create new burgers or sides to 'devour' from drop down menus
-
-![Screen shot3](public/assets/images/Menu.png)
-Menu Page - Displays all available Burgers and Sides
+![img1](https://user-images.githubusercontent.com/44482712/54010160-4cd9f200-4133-11e9-9a08-9b25e36f14ce.png)
+![img2](https://user-images.githubusercontent.com/44482712/54010163-4f3c4c00-4133-11e9-93cc-50345f919cc3.png)
+![img3](https://user-images.githubusercontent.com/44482712/54010170-55cac380-4133-11e9-967a-6aef0582728a.png)
+![img4](https://user-images.githubusercontent.com/44482712/54010173-58c5b400-4133-11e9-9794-c79ecb251edb.png)
 
 
 
